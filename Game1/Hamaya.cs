@@ -13,6 +13,8 @@ namespace Game1
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        //nasldknsdlkgjsdlfksldkjgasjdff
+
         public Hamaya()
         {
             graphics = new GraphicsDeviceManager(this);
