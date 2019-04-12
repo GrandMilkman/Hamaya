@@ -12,7 +12,6 @@ namespace Game1
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        InputDevice inputDevice;
 
         public Hamaya()
         {
