@@ -3,4 +3,5 @@
 if (money == veryBigAmount) {
   boobs.here = true;
   boobs.size = 999999999999999;
+  WIN!!!
 }
