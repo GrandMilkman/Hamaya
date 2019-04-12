@@ -14,6 +14,7 @@ namespace Game1
         SpriteBatch spriteBatch;
 
         //nasldknsdlkgjsdlfksldkjgasjdff
+        //asdaugsfhajhijfghkoPFAJSGHKJOFKAJSGHKFLAFJGSHFDF
 
         public Hamaya()
         {
